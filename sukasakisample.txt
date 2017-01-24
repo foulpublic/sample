@@ -1,0 +1,6 @@
+#include void domain{
+
+}
+
+a= i;
+each
